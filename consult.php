@@ -23,7 +23,6 @@
             <?php
             include("bdd/connection.php");
             include("bdd/table.php");
-            // $mysqli->close();
             ?>
         </table>
     </main>
